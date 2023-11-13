@@ -9,4 +9,5 @@ class SerieController extends Controller
     public function index(){
         return view('series');
     }
+    
 }
